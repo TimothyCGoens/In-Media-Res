@@ -1,5 +1,3 @@
 # In-Media-Res
 
-App in development.
-
-Tim Goens
+App in development by Tim Goens
